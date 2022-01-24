@@ -1,0 +1,49 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.tamano_img1{
+    height: 40px;
+}
+.header .navbar {
+    background-color: transparent;
+}
+.fixed-top.scrolled {
+    background-color: #0DCAEC !important;
+    transition: background-color 200ms linear;
+}
+hr{
+    background-color: #FFFFFF;
+    width: 90%;
+    margin-bottom: 3%;
+}
+h1 {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 25pt;
+}
+p {
+    font-size: 10pt;
+}
+h5 {
+    font-size: 14pt;
+}
+.texto_ftr{
+    text-align: center;
+}
+.img_ftr{
+    text-align: center;
+    color: #FFFFFF;
+}
+.color_contc{
+    color: #FFFFFF;
+}
+.navbar {
+    background-color: transparent !important;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+  }
